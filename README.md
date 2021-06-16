@@ -6,7 +6,9 @@
 https://hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of-gridded-satellite-data-in-r
 #### Correlación cuadriculada para datos ráster de series temporales
 #### Los datos de las series de tiempo de los satélites son útiles para estudiar cómo cambian las variables biofísicas con el tiempo y comprender qué causa esos cambios.
+
 ![image](https://user-images.githubusercontent.com/78845785/122194090-667f4d80-ce95-11eb-9c50-2041976ba06c.png)
+
 
 ![image](https://user-images.githubusercontent.com/78845785/122192224-beb55000-ce93-11eb-8425-006dcd78d72f.png)
 
@@ -49,9 +51,9 @@ https://hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of
 
 ## FAPAR
 
-![image](https://user-images.githubusercontent.com/78845785/122198642-9c263580-ce99-11eb-852a-c8b8ed158332.png)
+![image](https://user-images.githubusercontent.com/78845785/122198904-d98ac300-ce99-11eb-93f7-50b565d78862.png)
 
-![image](https://user-images.githubusercontent.com/78845785/122201843-bf061900-ce9c-11eb-88b6-0203117fd880.png)
+![image](https://user-images.githubusercontent.com/78845785/122199419-4ef69380-ce9a-11eb-8114-517d7b8084b3.png)
 
 ![image](https://user-images.githubusercontent.com/78845785/122199538-6a619e80-ce9a-11eb-9ddd-17ba56b8c595.png)
 
@@ -144,9 +146,11 @@ https://hakimabdi.com/blog/test-pixelwise-correlation-between-two-time-series-of
 
 
 ## Tablas grupos topograficos con cada variables de Humedad, Precipitación y NDVI
-![image](https://user-images.githubusercontent.com/78845785/122198904-d98ac300-ce99-11eb-93f7-50b565d78862.png)
 
-![image](https://user-images.githubusercontent.com/78845785/122199419-4ef69380-ce9a-11eb-8114-517d7b8084b3.png)
+![image](https://user-images.githubusercontent.com/78845785/122198642-9c263580-ce99-11eb-852a-c8b8ed158332.png)
+
+![image](https://user-images.githubusercontent.com/78845785/122201843-bf061900-ce9c-11eb-88b6-0203117fd880.png)
+
 
 ![image](https://user-images.githubusercontent.com/78845785/122199314-38e8d300-ce9a-11eb-833b-e75be6260e1f.png)
 
